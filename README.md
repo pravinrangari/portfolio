@@ -1,1 +1,1 @@
-Advance java project
+JavaEE project
